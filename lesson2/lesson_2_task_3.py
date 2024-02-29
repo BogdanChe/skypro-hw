@@ -11,4 +11,4 @@ side = 5
 square_area = square(side)
 
 
-print("5", side, ":", square_area)
+print("Площадь квадрата со стороной", side, ":", square_area)
